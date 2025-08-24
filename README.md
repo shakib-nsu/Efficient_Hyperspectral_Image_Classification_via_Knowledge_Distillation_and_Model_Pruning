@@ -1,0 +1,2 @@
+# Efficient_Hyperspectral_Image_Classification_via_Knowledge_Distillation_and_Model_Pruning
+Efficient Hyperspectral Image Classification via Knowledge Distillation and Model Pruning
